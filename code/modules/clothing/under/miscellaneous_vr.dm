@@ -1,8 +1,9 @@
 /obj/item/clothing/var/hides_bulges = FALSE // OwO wats this?
 
 /obj/item/clothing/under/permit
-	name = "public nudity permit"
-	desc = "This permit entitles the bearer to conduct their duties without a uniform. Normally issued to furred crewmembers or those with nothing to hide."
+	name = "unconventional wear"
+	desc = "Whether it's your lazy undershirt, intricate accessories, or enormous wooly fur, you can \
+			find a way to fit your ID and a few items in snugly, helping you style to your heart's content."
 	icon = 'icons/obj/card.dmi'
 	icon_state = "guest"
 	body_parts_covered = 0

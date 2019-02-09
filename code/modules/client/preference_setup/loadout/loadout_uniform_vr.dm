@@ -1,5 +1,5 @@
 /datum/gear/uniform/suit/permit
-	display_name = "nudity permit"
+	display_name = "unconventional wear (invisible jumpsuit)"
 	path = /obj/item/clothing/under/permit
 
 //Polaris overrides
